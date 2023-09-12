@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CollectWordsSafeArgs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="word">Word</string>
+    <string name="save_word">Save Word</string>
+    <string name="clear_words">Clear Words</string>
+    <string name="show_words">Show Words</string>
+    <string name="show_words_next">Show Words 2nd</string>
+</resources>
